@@ -26,4 +26,4 @@ Macroeconomy Consultant with experience in ETL, reports and presentations.
 <!-- [def2]: https://github.com/andrelb-hub/viz -->
 
 ## Contact
-- [andreluizmtg@gmail.com](mailto:andreluizmtg@gmail.com)
+- [email](mailto:andre.eco.mat@gmail.com)
