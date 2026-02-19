@@ -14,8 +14,8 @@ Macroeconomy Consultant with experience in ETL, reports and presentations.
 ## Skills
 - R (Advanced)
 - Bloomberg Terminal (Advanced)
-- Power BI (Advanced)
 - LaTeX (Advanced)
+- MATLAB (Intermediate)
 - Dynare (Intermediate)
 
 ## Projects
