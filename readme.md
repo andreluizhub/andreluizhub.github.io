@@ -10,6 +10,7 @@ Macroeconomy Consultant with experience in ETL, reports and presentations.
 - Banco do Brasil, Brasília, Brazil:
   - Macroeconomy Consultant, 2024 - Present
   - Regional Economy Consultant, 2023 - 2024
+  - Researcher, 2022-2023
   
 ## Skills
 - R (Advanced)
