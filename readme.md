@@ -1,14 +1,14 @@
 # André Luiz, MSc
 
 ## Summary
-Macroeconomy Consultant with experience in ETL, reports and presentations.
+Macroeconomic Consultant with experience in ETL, reports and presentations.
 
 ## Education
 - MSc in Economic Development, UFPR, Curitiba, Brazil, 2024.
 
 ## Experience
 - Banco do Brasil, Brasília, Brazil:
-  - Macroeconomy Consultant, 2024 - Present
+  - Macroeconomic Consultant, 2024 - Present
   - Regional Economy Consultant, 2023 - 2024
   - Researcher, 2022-2023
   
@@ -27,4 +27,4 @@ Macroeconomy Consultant with experience in ETL, reports and presentations.
 <!-- [def2]: https://github.com/andrelb-hub/viz -->
 
 ## Contact
-- [email](mailto:andre.eco.mat@gmail.com)
+- [Email](mailto:andre.eco.mat@gmail.com)
